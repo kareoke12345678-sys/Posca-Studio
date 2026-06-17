@@ -1,0 +1,4 @@
+This project has FORBIDDEN redistrobution modification and others written in the README.md.
+do NOT try using this with any tools like WayDroid or TuxAPK (Fully made by ME) that basically either launch APKs or emulate android so you can install APKs an these ONLY work on Linux check mentors.debian.org https://kareoke12345678-sys.github.io/TuxAPK/ and https://github.com/kareoke12345678-sys/TuxAPK/ for information about debiian ppackages and TuxAPK
+also NOTE this repo is not affiliated with WayDroid (Made by another Linux user) or MY OWN TuxAPK as TuxAPK is its own seperate Repository still by me.
+also please do NOT violate any rules and that includes transformation to .AppImage even if it is for "Personal Use" as the  "User"  or somwewhat "Consumer" by any sort may modify it and if you would like a request for another reason please mail the Email listed in Email.txt which also includes information about emails.
